@@ -12,6 +12,8 @@ http://localhost:8080/swagger-springmvc-example/index.html
 
 # 演示
 
+![](Screenshots/swagger-screenshot.png)
+
 ![](Screenshots/readme.gif)
 
 # 相关资源
